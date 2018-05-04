@@ -5,10 +5,11 @@
 
 .title {
   text-transform: cursive;
-  background-color: white;
+  background-color: cyan;
   font-family: Arial;
   padding-top: 10px;
   padding-bottom: 10px;
+  opacity: 0.5;
 }
 
 body {
@@ -17,7 +18,8 @@ body {
 
 .info {
   font-family: arial;
-  background-color: white;
+  background-color: cyan;
   padding-top: 10px;
   padding-bottom: 10px;
+  opacity: 0.5;
 }
