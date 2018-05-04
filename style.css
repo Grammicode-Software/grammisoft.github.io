@@ -1,8 +1,18 @@
 .construction {
   color: firebrick;
-  font-family: "Lucida Console";
+  font-family: arial;
+}
+
+.title {
+  text-transform: cursive;
+  background-color: white;
 }
 
 body {
-  background: black;
+  background image: "https://techcrunch.com/2016/05/10/please-dont-learn-to-code/";
 }  
+
+.info {
+  font-family: arial;
+  background-color: white;
+}
