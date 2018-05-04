@@ -1,15 +1,10 @@
-.construction {
-  color: firebrick;
-  font-family: arial;
-}
 
 .title {
   text-transform: cursive;
   background-color: cyan;
   font-family: Arial;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  background-opacity: 0.5;
+  padding: 20px;
+  opacity: 0.75;
 }
 
 body {
@@ -21,5 +16,13 @@ body {
   background-color: cyan;
   padding-top: 10px;
   padding-bottom: 10px;
-  background-opacity: 0.5;
+  opacity: 0.75;
+  width: 300px;
 }
+
+.links {
+  font-family: arial;
+  padding 5px
+  width: 200px;
+  background-color:
+}  
