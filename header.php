@@ -1,3 +1,5 @@
+<!doctype html>
+<html>
 <div class="header">
   <a href="#default" class="logo">CompanyLogo</a>
   <div class="header-right">
@@ -6,3 +8,4 @@
     <a href="#about">About</a>
   </div>
 </div>
+</html>
