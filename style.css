@@ -37,7 +37,7 @@ body {
   opacity: 0.75;
 }
 
-.links.hover {
+a.hover {
   font-family: arial;
   padding 10px;
   width: 200px;
