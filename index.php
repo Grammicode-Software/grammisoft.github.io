@@ -3,5 +3,5 @@
 <head>
    <!-- HTML meta refresh URL redirection -->
    <meta http-equiv="refresh"
-   content="0; url=http://www.grammicode.com/home.html">
+   content="0; url=http://www.grammicode.com/home.php">
 </head>
