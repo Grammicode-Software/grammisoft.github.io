@@ -37,6 +37,7 @@ body {
   font-family: arial;
   padding 5px;
   width: 200px;
+  color: black;
   background-color: cyan;
   opacity: 0.75;
 }
@@ -46,6 +47,7 @@ a:hover {
   padding 10px;
   width: 200px;
   background-color: black;
+  color: white;
   opacity: 1;
 }
 
