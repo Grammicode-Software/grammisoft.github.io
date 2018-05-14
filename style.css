@@ -61,7 +61,7 @@ a:hover {
   color: white;
   opacity: 1;
 }
-
+/* Start header CSS */
 /* Style the header with a grey background and some padding */
 .header {
   overflow: hidden;
@@ -116,4 +116,8 @@ a:hover {
     float: none;
   }
 }
+/*End header CSS*/
+
+body.jobs {
+  background-image: url(https://raw.githubusercontent.com/Grammicode-Software/grammisoft.github.io/master/jobsback.jpg);
 
