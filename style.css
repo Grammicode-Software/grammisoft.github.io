@@ -67,6 +67,7 @@ a:hover {
   overflow: hidden;
   background-color: black;
   padding: 10px 5px;
+  position: fixed;
 }
 
 /* Style the header links */
@@ -79,6 +80,7 @@ a:hover {
   font-size: 18px; 
   line-height: 25px;
   border-radius: 4px;
+  position: fixed;
 }
 
 /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
@@ -86,6 +88,7 @@ a:hover {
   font-size: 25px;
   font-weight: bold;
   font-family: arial;
+  position: fixed;
 }
 
 /* Change the background color on mouse-over */
@@ -121,4 +124,8 @@ a:hover {
 body.jobs {
   background-image: url(https://raw.githubusercontent.com/Grammicode-Software/grammisoft.github.io/master/jobsback.jpg);
 }
+
+body.improve {
+  background-color: black;
+}  
 
