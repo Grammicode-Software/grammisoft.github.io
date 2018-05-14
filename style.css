@@ -2,6 +2,13 @@
   box-sizing: border-box;
 }
 
+#Grammicode-News {
+  background-color: white;
+  width: 175px;
+  padding: 10px;
+}
+  
+
 #image {
   height: 25px;
   width: 25px;
@@ -27,9 +34,8 @@ body {
 
 .info {
   font-family: arial;
-  background-color: cyan;
+  background-color: white
   padding: 10px;
-  opacity: 0.75;
   width: 300px;
   height: 400px;
   overflow: scroll;
@@ -56,8 +62,8 @@ a:hover {
 /* Style the header with a grey background and some padding */
 .header {
   overflow: hidden;
-  background-color: #f1f1f1;
-  padding: 20px 10px;
+  background-color: black;
+  padding: 10px 5px;
 }
 
 /* Style the header links */
