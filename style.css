@@ -7,7 +7,7 @@
   width: 175px;
   padding: 10px;
   font-family: arial;
-  align: center;
+  margin: auto;
 }
   
 
@@ -36,10 +36,10 @@ body {
 
 .info {
   font-family: arial;
-  align: center;
+  margin: auto;
   background-color: white
   padding: 10px;
-  width: 400px;
+  width: 75%;
 }
 
 .links {
@@ -70,7 +70,7 @@ a:hover {
 /* Style the header links */
 .header a {
   float: left;
-  color: black;
+  color: white;
   text-align: center;
   padding: 12px;
   text-decoration: none;
