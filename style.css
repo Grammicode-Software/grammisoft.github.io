@@ -1,0 +1,131 @@
+* {
+  box-sizing: border-box;
+}
+
+#Grammicode-News {
+  background-color: white;
+  width: 175px;
+  padding: 10px;
+  font-family: arial;
+  margin: auto;
+  border-radius: 25px;
+}
+  
+
+#image {
+  height: 25px;
+  width: 25px;
+}
+head {
+  background-color: black;
+  height: 50px;
+}
+
+
+.title {
+  text-transform: cursive;
+  background-color: cyan;
+  font-family: Arial;
+  padding: 20px;
+  opacity: 0.75;
+  width: 400px;
+}
+
+body {
+  background-image: url(https://raw.githubusercontent.com/Grammicode-Software/grammisoft.github.io/master/Laptops_Boys_480667_1366x768.jpg);
+}  
+
+.info {
+  font-family: arial;
+  margin: auto;
+  background-color: white;
+  padding: 10px;
+  width: 75%;
+  border-radius: 25px;
+  color: black;
+}
+
+.links {
+  font-family: arial;
+  padding 5px;
+  width: 200px;
+  color: black;
+  background-color: cyan;
+  opacity: 0.75;
+}
+
+a:hover {
+  font-family: arial;
+  padding 10px;
+  width: 200px;
+  background-color: black;
+  color: white;
+  opacity: 1;
+}
+/* Start header CSS */
+/* Style the header with a grey background and some padding */
+.header {
+  overflow: hidden;
+  background-color: black;
+  padding: 10px 5px;
+  position: fixed;
+}
+
+/* Style the header links */
+.header a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;
+  position: fixed;
+}
+
+/* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+.header a.logo {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: arial;
+  position: fixed;
+}
+
+/* Change the background color on mouse-over */
+.header a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Style the active/current link*/
+.header a.active {
+  background-color: dodgerblue;
+  color: white;
+}
+
+/* Float the link section to the right */
+.header-right {
+  float: right;
+}
+
+/* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */ 
+@media screen and (max-width: 500px) {
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .header-right {
+    float: none;
+  }
+}
+/*End header CSS*/
+
+body.jobs {
+  background-image: url(https://raw.githubusercontent.com/Grammicode-Software/grammisoft.github.io/master/jobsback.jpg);
+}
+
+body.improve {
+  background-color: black;
+}
